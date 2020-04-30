@@ -1,12 +1,12 @@
 #!/bin/bash
-# Covid-19 v1.0
+# Covid-19 v1.1.0
 # Coded by : Moussa with my love Narj Ess
-# youtube : Moussa Unix
-# facebook : MoussaUnix
-# github :MoussaUnix
+# youtube : FSOCIETY ARAB
+# facebook : fsociety.moussa
+# github : FSOCIETY-coder-dz
 # twitter : ShadowDz5
-# instagram : zodiac2372
-# Coded by: https://github.com/MoussaUnix
+# instagram : fsociety0557
+# Coded by: https://github.com/FSOCIETY-coder-dz
 # Read the License before using any part from this code.
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
@@ -14,20 +14,27 @@ trap 'printf "\n";stop' 2
 
 banner() {
 
-
+    printf " \e[1;31m ███████╗███████╗ ██████╗  ██████╗██╗███████╗████████╗██╗   ██╗\e[0m \n"
+    printf " \e[1;31m ██╔════╝██╔════╝██╔═══██╗██╔════╝██║██╔════╝╚══██╔══╝╚██╗ ██╔╝\e[0m \n"
+    printf " \e[1;31m █████╗  ███████╗██║   ██║██║     ██║█████╗     ██║    ╚████╔╝\e[0m \n" 
+    printf " \e[1;31m ██╔══╝  ╚════██║██║   ██║██║     ██║██╔══╝     ██║     ╚██╔╝\e[0m \n" 
+    printf " \e[1;31m ██║     ███████║╚██████╔╝╚██████╗██║███████╗   ██║      ██║\e[0m \n"  
+    printf " \e[1;31m ╚═╝     ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚══════╝   ╚═╝      ╚═╝ 1.1.0\e[0m \n"  
+    printf " \n\e[1;34m  MOUSSA-COVID-19- We are a team : FSOCIETY-ARAB-Millia\e[0m \n"
+    
     printf " \e[1;31m       ___  ___   _____   _   _   _____   _____       ___\e[0m \n"
     printf " \e[1;34m      /   |/   | /  _  \ | | | | /  ___/ /  ___/     /   |\e[0m \n" 
     printf " \e[1;34m     / /|   /| | | | | | | | | | | |___  | |___     / /| |\e[0m \n"
     printf " \e[1;34m    / / |__/ | | | | | | | | | | \___  \ \___  \   / / | |\e[0m \n" 
     printf " \e[1;34m   / /       | | | |_| | | |_| |  ___| |  ___| |  / /  | |\e[0m \n" 
     printf " \e[1;31m  /_/        |_| \_____/ \_____/ /_____/ /_____/ /_/   |_|\e[0m \n" 
-    printf " \n\e[1;34m  MOUSSA-COVID-20- We are a team : Moussa Unix-Millia\e[0m \n"
+    printf " \n\e[1;34m  MOUSSA-COVID-19- We are a team : FSOCIETY-ARAB-Millia\e[0m \n"
 
 printf " \n\e[1;31m Coded by : Moussa with my love Narj Ess\e[0m \n"
-printf " \n\e[1;77m Coded by: https://github.com/MoussaUnix\e[0m \n"
-printf " \n\e[1;34m youtube : Moussa Unix\e[0m \n"
+printf " \n\e[1;77m Coded by: https://github.com/FSOCIETY-coder-dz\e[0m \n"
+printf " \n\e[1;34m youtube : FSOCIETY ARAB\e[0m \n"
 printf " \n\e[1;77m twitter : ShadowDz5\e[0m \n"
-printf " \n\e[1;32m instagram : zodiac2372\e[0m \n"
+printf " \n\e[1;32m instagram : fsociety0557\e[0m \n"
 printf "\n\n\n\e[1;91m Disclaimer: this tool is designed for security\n"
 printf " testing in an authorized simulated cyberattack\n"
 printf " Attacking targets without prior mutual consent\n"
@@ -256,4 +263,3 @@ checkfound
 banner
 dependencies
 start1
-
